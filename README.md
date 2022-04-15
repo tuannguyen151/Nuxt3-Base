@@ -27,3 +27,10 @@ yarn build
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
+
+# Storybook
+
+## Starts Storybook in development mode
+```bash
+npm run storybook
+```
